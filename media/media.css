@@ -1,0 +1,33 @@
+@media(max-width:1200px){
+  .slider-slide__description{
+    font-size: 16px;
+  }
+  .header__description {
+    font-size: 18px;
+  }
+  .header__title{
+    font-size: 50px;
+  }
+}
+@media(max-width:992px){
+  .header__title{
+    font-size: 45px;
+  }
+  .header__list_link{
+    margin: 0 15px;
+  }
+  .slider-slide__description{
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .slider-controls{
+    display: none;
+  }
+  .works__link-list{
+    font-size: 1  4px;
+    padding: 10px 20px;
+  }
+}
+@media(max-width:768px){
+  
+}
